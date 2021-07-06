@@ -34,7 +34,65 @@ width: 100%;
     
     background-repeat: no-repeat;
 }
-.dream-big{
-    background-image: url(images/Frame\ 57.jpg);
-    background-repeat: no-repeat;
 }
+.recipie {
+    margin: 0 50px;
+    display: inline-flex;
+    box-shadow: 20px 20px 30px rgb(163, 163, 163);
+    padding: 50px;
+    border-radius: 30px;
+    width: 25%;
+  }
+  }
+  .recipie h1 {
+    color: rgb(45, 45, 45);
+  }
+  .color-grey {
+    color: grey;
+  }
+  .bold {
+    color: rgb(44, 44, 44);
+    font-weight: bold;
+  }
+  .recipie {
+    margin: 0 20px;
+    display: inline;
+    box-shadow: 15px 10px 30px rgb(163, 163, 163);
+    padding: 20px;
+    border-radius: 10px;
+    width: 25%;
+  }
+  
+  }
+  .recipie h1 {
+    color: rgb(45, 45, 45);
+  }
+  .color-grey {
+    color: grey;
+  }
+  .bold {
+    color: rgb(44, 44, 44);
+    font-weight: bold;
+  }
+  .recipie {
+    margin: 0 40px;
+    display: inline;
+    box-shadow: 15px 10px 30px rgb(163, 163, 163);
+    padding: 30px;
+    border-radius: 20px;
+    width: 35%;
+  }
+  .recipie img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .recipie h1 {
+    color: rgb(45, 45, 45);
+  }
+  .color-grey {
+    color: grey;
+  }
+  .bold {
+    color: rgb(44, 44, 44);
+    font-weight: bold;
+  }
